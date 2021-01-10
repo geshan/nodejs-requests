@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-requests",
+  "version": "1.0.0",
+  "description": "A sample with Node.js starndard library and some other request related packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-requests.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "request"
+  ],
+  "author": "Geshan Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-requests/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-requests#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
