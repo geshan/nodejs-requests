@@ -23,6 +23,7 @@
   "homepage": "https://github.com/geshan/nodejs-requests#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "got": "^11.8.1"
+    "got": "^11.8.1",
+    "superagent": "^6.1.0"
   }
 }
